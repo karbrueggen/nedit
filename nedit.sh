@@ -8,8 +8,8 @@ echo "*									*"
 echo "*		created		Fr 05. Jan 12:46:28 CET 2017		*"
 echo "*		last change	Fr 05. Jan 13:43:55 CET 2017		*"
 echo "*		description	Nedit Numblock fix	*"
-echo "*				on Linux		*"
-echo "*									*"
+echo "*				on Linux		    *"
+echo "*								    	*"
 echo "*******************************************************************"
 
 ## Set variable APPLICATION, FIX und ORIG
